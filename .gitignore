@@ -1,0 +1,2 @@
+#exclude all .DS_Store file
+*.DS_Store
